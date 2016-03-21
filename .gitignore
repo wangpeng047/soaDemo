@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+
+# Eclipse project files
+.classpath
+.project
+
+
+# Java class files
+*.class
